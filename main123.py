@@ -4,4 +4,4 @@ print("Ангара")
 class Fish:
     def __init__(self, color, name):
         self.name = name
-        self.color = color
+        self.fish_color = color
